@@ -4,3 +4,4 @@ cd is used to change directory
 ls -l is used to display current directory in long format
 ls -la is used Display current directory contents, including hidden files
 ls -na is used display current directory contents numerically
+mkdir /tmp/my_first_directory is used to creat a directory under the /tmp/path
