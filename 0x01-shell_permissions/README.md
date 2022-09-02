@@ -12,4 +12,5 @@ chgrp school hello is used to changes the group owner to school for the file hel
 chown vincent:staff * is used to changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 chown -h vincent:staff _hello is used to changes the owner and the group owner of _hello to vincent and staff respectively.
 chown -from=guillaume betty hello is used to changes the owner of the file hello to betty only if it is owned by the user
-chown --from=guillaume betty hello 
+chown --from=guillaume betty hello
+telnet towel.blinkenlights.nl is used to play the StarWars IV episode in the terminal. 
