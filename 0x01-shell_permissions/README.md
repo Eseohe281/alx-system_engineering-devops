@@ -6,4 +6,5 @@ chmod ugo+x hello is used to adds execution permission to the owner, the group o
 chmod 007 hello is used to  sets the permission to the file
 chmod 753 hello is used to sets the mode of the file
 chmod 354 hello is used to  sets the mode of the file hello the same as olleh’s mode
-chmod a+x */ is used to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed 
+chmod a+x */ is used to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+mkdir -m 751 my_dir is used to  creates a directory called my_dir with permissions 751 in the working directory. 
