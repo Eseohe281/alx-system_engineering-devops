@@ -10,4 +10,5 @@ chmod a+x */ is used to execute permission to all subdirectories of the current 
 mkdir -m 751 my_dir is used to  creates a directory called my_dir with permissions 751 in the working directory.
 chgrp school hello is used to changes the group owner to school for the file hello
 chown vincent:staff * is used to changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-chown -h vincent:staff_hello is used to changes the owner and the group owner of _hello to vincent and staff respectively. 
+chown -h vincent:staff_hello is used to changes the owner and the group owner of _hello to vincent and staff respectively.
+chown -from=guillaume betty hello is used to changes the owner of the file hello to betty only if it is owned by the user 
