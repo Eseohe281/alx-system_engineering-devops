@@ -5,4 +5,5 @@ chmod 754 hello is used to  execute permission to the owner and the group owner,
 chmod ugo+x hello is used to adds execution permission to the owner, the group owner and the other users
 chmod 007 hello is used to  sets the permission to the file
 chmod 753 hello is used to sets the mode of the file
-chmod 354 hello is used to  sets the mode of the file hello the same as olleh’s mode 
+chmod 354 hello is used to  sets the mode of the file hello the same as olleh’s mode
+chmod a+x */ is used to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed 
