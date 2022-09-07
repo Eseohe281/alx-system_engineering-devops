@@ -9,3 +9,4 @@ echo $(($TRUEKNOWLEDGE+128)) is used to Write a script that prints the result of
 echo $((POWER/DIVIDE)) is used to Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
 echo $(($BREATH**LOVE)) is used to Write a script that displays the result of BREATH to the power LOViE
 echo "$((2#$BINARY))" is used to Write a script that converts a number from base 2 to base 10.
+echo {a..z}{a..z} | tr ' ' '\n' grep -v "oo" is used to Create a script that prints all possible combinations of two letters, except oo.
