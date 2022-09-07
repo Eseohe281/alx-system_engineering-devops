@@ -1,3 +1,5 @@
 alias ls="rm *" is script that creates an alias.
 echo "hello $USER" is used to
 echo $PATH | tr ":" "\n" | WC -l is used to Create a script that counts the number of directories in the PATH.
+printenv is used to Create a script that lists environment variables.
+
