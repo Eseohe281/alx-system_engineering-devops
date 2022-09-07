@@ -8,3 +8,4 @@ export HOLBERTON="Betty" is used to Create a script that creates a new global va
 echo $(($TRUEKNOWLEDGE+128)) is used to Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 echo $((POWER/DIVIDE)) is used to Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
 echo $(($BREATH**LOVE)) is used to Write a script that displays the result of BREATH to the power LOViE
+echo "$((2#$BINARY))" is used to Write a script that converts a number from base 2 to base 10.
