@@ -3,3 +3,4 @@ echo Hello World is used to Write a script that prints “Hello, World”, follo
 cat /etc/passwd is used to Display the content of the /etc/passwd file.
 cat /etc passwd/etc/hosts is used to Display the content of /etc/passwd and /etc/hosts
 tail /etc/passwd is used to Display the last 10 lines of /etc/passwd
+head /etc/passwd is used to display the first 10 lines
